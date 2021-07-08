@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there, I'm Joe 👋
+
+I'm a data analyst professionally but I love learning a bit of everything, I consider myself a polymath.
 
 <!--
 **ChemicalLuck/ChemicalLuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
